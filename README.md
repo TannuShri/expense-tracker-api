@@ -178,7 +178,7 @@ Cloud deployment workflow
 
 📌 Author
 
-Tanu Shri
+Tannu Shri
 GitHub: https://github.com/TannuShri
 
 ⭐ If you like this project
